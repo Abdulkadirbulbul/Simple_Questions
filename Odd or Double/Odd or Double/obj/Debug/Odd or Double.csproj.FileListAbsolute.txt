@@ -1,0 +1,7 @@
+D:\Github\Visual  Studio\Simple Questions\Odd or Double\Odd or Double\bin\Debug\Odd or Double.exe.config
+D:\Github\Visual  Studio\Simple Questions\Odd or Double\Odd or Double\bin\Debug\Odd or Double.exe
+D:\Github\Visual  Studio\Simple Questions\Odd or Double\Odd or Double\bin\Debug\Odd or Double.pdb
+D:\Github\Visual  Studio\Simple Questions\Odd or Double\Odd or Double\obj\Debug\Odd or Double.csprojAssemblyReference.cache
+D:\Github\Visual  Studio\Simple Questions\Odd or Double\Odd or Double\obj\Debug\Odd or Double.csproj.CoreCompileInputs.cache
+D:\Github\Visual  Studio\Simple Questions\Odd or Double\Odd or Double\obj\Debug\Odd or Double.exe
+D:\Github\Visual  Studio\Simple Questions\Odd or Double\Odd or Double\obj\Debug\Odd or Double.pdb
