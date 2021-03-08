@@ -1,0 +1,7 @@
+D:\Github\Visual  Studio\Simple Questions\Is_is_prime\Is_is_prime\bin\Debug\Is_is_prime.exe.config
+D:\Github\Visual  Studio\Simple Questions\Is_is_prime\Is_is_prime\bin\Debug\Is_is_prime.exe
+D:\Github\Visual  Studio\Simple Questions\Is_is_prime\Is_is_prime\bin\Debug\Is_is_prime.pdb
+D:\Github\Visual  Studio\Simple Questions\Is_is_prime\Is_is_prime\obj\Debug\Is_is_prime.csprojAssemblyReference.cache
+D:\Github\Visual  Studio\Simple Questions\Is_is_prime\Is_is_prime\obj\Debug\Is_is_prime.csproj.CoreCompileInputs.cache
+D:\Github\Visual  Studio\Simple Questions\Is_is_prime\Is_is_prime\obj\Debug\Is_is_prime.exe
+D:\Github\Visual  Studio\Simple Questions\Is_is_prime\Is_is_prime\obj\Debug\Is_is_prime.pdb
